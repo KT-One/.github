@@ -32,7 +32,7 @@ We operate as a research-first organization - small, focused, and deliberately e
 - Quantum diffusion models - generative modeling via quantum dynamics
 - Dissipative QML - training under real-world, noisy quantum conditions
 
-**Long-term (5–10 years)**
+**Long-term (5-10 years)**
 
 - Quantum AGI - artificial general intelligence leveraging quantum computation
 - Multi-discipline lab - applying quantum and advanced AI to open problems across sciences
@@ -57,7 +57,7 @@ Collision models and non-Markovian dynamics give us a precise language for what 
 
 ## Lab Structure
 
-KT One runs a hybrid human–AI R&D pipeline. We are an AI-first organization, built on the belief that AI will free human researchers from routine tasks and enable deeper focus on creative, high-level scientific work. Research is organized around parallel hypothesis exploration, with structured coordination between human researchers and AI agents for literature review, theoretical development, and implementation.
+KT One runs a hybrid human-AI R&D pipeline. We are an AI-first organization, built on the belief that AI will free human researchers from routine tasks and enable deeper focus on creative, high-level scientific work. Research is organized around parallel hypothesis exploration, with structured coordination between human researchers and AI agents for literature review, theoretical development, and implementation.
 
 We are pre-funding and pre-product - entirely focused on research output quality and foundational positioning.
 
