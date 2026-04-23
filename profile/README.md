@@ -73,6 +73,6 @@ We welcome academic collaboration, particularly in:
 
 We are also open to industry partnerships and investment, especially with organizations interested in quantum AI and next-generation computational paradigms.
 
-Contact us at [nguyenminhtam7124@gmail.com](mailto:nguyenminhtam7124@gmail.com)
+Contact us at [tam@ktone.org](mailto:tam@ktone.org)
 
 _Founded: November 2025 · Independent · Pre-funding_
